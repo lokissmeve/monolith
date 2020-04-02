@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/user12org/user12/_apis/build/status/user12-CI?branchName=master)](https://dev.azure.com/user12org/user12/_build/latest?definitionId=3&branchName=master)
+
 # monolith
 참고:  
 Order 와 product 는 N:1 (다대일) 관계이다.  
